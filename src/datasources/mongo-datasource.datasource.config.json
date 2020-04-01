@@ -2,10 +2,10 @@
   "name": "mongoDatasource",
   "connector": "mongodb",
   "url": "",
-  "host": "localhost",
+  "host": "50.28.32.110",
   "port": 27017,
-  "user": "",
-  "password": "",
+  "user": "admin",
+  "password": "Tumu_De1Zah~Ea",
   "database": "",
   "useNewUrlParser": true
 }
